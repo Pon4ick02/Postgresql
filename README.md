@@ -1,0 +1,1 @@
+project/ │ ├── .env # Environment variables (database configuration) ├── database.py # Database connection and table creation logic ├── data_operations.py # Data operations (insert, update, delete, query) ├── main.py # Main script that runs the operations ├── README.md # Project documentation ├── requirements.txt # Project dependencies
